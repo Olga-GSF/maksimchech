@@ -1,0 +1,12 @@
+.about-us {
+  width: 1152px;
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  margin: 100px auto;
+  padding-left: 100px;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+}

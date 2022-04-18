@@ -1,0 +1,15 @@
+.categories__link-text {
+  font-family: 'Nunito', sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #3E3F43;
+  text-decoration: none;
+  transition: opacity 0.1s ease-out;
+  }
+  
+  .categories__link-text:hover {
+    opacity: 0.5;
+  }

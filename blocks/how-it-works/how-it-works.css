@@ -1,0 +1,7 @@
+.how-it-works {
+  width: 952px;
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 100px;
+  margin-bottom: 120px;
+}

@@ -1,0 +1,9 @@
+.home__text {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 200px;
+  width: 504px;
+  min-height: 376px;
+}

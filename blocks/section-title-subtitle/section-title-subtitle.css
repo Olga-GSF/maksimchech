@@ -1,0 +1,7 @@
+.section-title-subtitle {
+  width: 952px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 64px;
+}

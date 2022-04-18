@@ -1,0 +1,5 @@
+.about-us__text-first {
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+}

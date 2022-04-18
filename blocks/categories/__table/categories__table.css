@@ -1,0 +1,10 @@
+.categories__table {
+  width: 952px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0 auto 64px;
+  padding: 0;
+  flex-wrap: wrap;
+}

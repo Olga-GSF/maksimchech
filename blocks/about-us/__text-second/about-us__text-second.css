@@ -1,0 +1,5 @@
+.about-us__text-second {
+  width: 720px;
+  display: flex;
+  flex-direction: column;
+}

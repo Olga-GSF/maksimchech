@@ -1,0 +1,15 @@
+.header__menu-link {
+  position: static;
+  top: 0px;  
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 22px;
+  text-decoration: none;
+  transition: opacity 0.1s ease-out;
+}
+
+.header__menu-link:hover {
+  opacity: 0.5;
+}

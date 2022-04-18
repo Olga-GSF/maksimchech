@@ -1,0 +1,10 @@
+.how-it-works__table {
+  width: 952px;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 64px;
+  padding: 0;
+}
