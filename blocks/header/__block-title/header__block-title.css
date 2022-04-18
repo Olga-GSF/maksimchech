@@ -1,6 +1,5 @@
 .header__block-title {
   display: flex;
-  justify-content: baseline;
   flex-direction: row;
   margin-right: 115px;
 }

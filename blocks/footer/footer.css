@@ -1,5 +1,7 @@
 .footer {
-  width: 952px;
+  width: 1152px;
+  min-height: 455px;
   display: flex;
-  padding-left: 100px;
-}
+  position: relative;
+  box-sizing: border-box;
+}  

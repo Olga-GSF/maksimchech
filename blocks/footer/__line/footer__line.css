@@ -1,0 +1,9 @@
+.footer__line {
+  position: absolute;
+  width: 708px;
+  height: 0px;
+  left: 108px;
+  bottom: 247px;
+  border: 1px solid #C4C4C4;
+  z-index: 1;
+}

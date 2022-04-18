@@ -1,0 +1,15 @@
+.footer__column-link {
+  font-family: 'Nunito', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 19px;
+  color: #8D8D8D;
+  text-decoration: none;
+  transition: opacity 0.1s ease-out;
+  margin-bottom: 16px;
+}
+
+.footer__column-link:hover {
+  opacity: 0.5;
+}
