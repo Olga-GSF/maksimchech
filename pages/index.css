@@ -45,6 +45,7 @@
 @import url(../blocks/how-it-works/__table-cell/how-it-works__table-cell.css);
 @import url(../blocks/how-it-works/__square-frame/how-it-works__square-frame.css);
 @import url(../blocks/how-it-works/__link-text/how-it-works__link-text.css);
+@import url(../blocks/how-it-works/__image/how-it-works__image.css);
 
 @import url(../blocks/categories/categories.css);
 @import url(../blocks/categories/__table/categories__table.css);

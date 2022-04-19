@@ -1,0 +1,8 @@
+.how-it-works__image {
+  transform: scale (1.5);
+  transition: scale 1s linear;
+}
+
+.how-it-works__image:hover {
+  transition: scale 1s linear;
+}
