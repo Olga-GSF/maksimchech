@@ -1,5 +1,5 @@
-.footer__pic-2 {
-  width: 508px;
-  height: 455px;
+.footer__pic {
+  width: 100%;
+  height: 100%;
   z-index: 0;
 }

@@ -1,8 +1,13 @@
 .categories__table-cell {
   margin: 0 56px 40px 0;
   position: relative;
+  transition: translate 0.2s linear;
 }
 
 .categories__table-cell:nth-child(3n) {
 margin-right: 0;
+}
+
+.categories__table-cell:hover {
+  transform: translateX(20px);
 }

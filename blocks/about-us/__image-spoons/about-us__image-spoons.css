@@ -1,4 +1,9 @@
 .about-us__image-spoons {
   width: 287px;
   height: 384px;
+  transition: rotate 0.2s ease-in-out;
+}
+
+.about-us__image-spoons:hover {
+  transform: rotate(90deg);
 }

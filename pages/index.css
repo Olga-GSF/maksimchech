@@ -11,6 +11,7 @@
 @import url(../blocks/header/__menu-link/_about/header__menu-link_about.css);
 @import url(../blocks/header/__menu-link/_how/header__menu-link_how.css);
 @import url(../blocks/header/__menu-link/_cat/header__menu-link_cat.css);
+@import url(../blocks/header/__square-pic/header__square-pic.css);
 
 @import url(../blocks/logo/logo.css);
 
@@ -25,7 +26,6 @@
 @import url(../blocks/home/__text/__text-title/home__text-title.css);
 @import url(../blocks/home/__text/__text-subtitle/home__text-subtitle.css);
 @import url(../blocks/home/__image/home__image.css);
-@import url(../blocks/home/__square-pic/home__square-pic.css);
 @import url(../blocks/home/__square-frame/home__square-frame.css);
 @import url(../blocks/home/__link-text/home__link-text.css);
 
@@ -54,8 +54,7 @@
 @import url(../blocks/categories/__link-text/categories__link-text.css);
 
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__pic-1/footer__pic-1.css);
-@import url(../blocks/footer/__pic-2/footer__pic-2.css);
+@import url(../blocks/footer/__pic/footer__pic.css);
 @import url(../blocks/footer/__columns/footer__columns.css);
 @import url(../blocks/footer/__column/footer__column.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);

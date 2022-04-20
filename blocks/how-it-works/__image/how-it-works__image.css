@@ -1,8 +1,9 @@
 .how-it-works__image {
-  transform: scale (1.5);
-  transition: scale 1s linear;
+  width: 238px;
+  height: 177px;
+  transition: scale 1s ease-in;
 }
 
 .how-it-works__image:hover {
-  transition: scale 1s linear;
+  transform: scale(1.5);
 }
